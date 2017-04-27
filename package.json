@@ -1,7 +1,8 @@
 {
-  "name": "simpleS-memorize",
+  "name": "simples.memorize",
   "version": "0.0.1",
   "description": "memorization library",
+  "repository": "https://github.com/BobrD/simples.memorize",
   "directories": {
     "test": "tests"
   },
