@@ -1,1 +1,1 @@
-Memorization libary.
+Memorization library.
