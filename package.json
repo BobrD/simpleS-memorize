@@ -1,8 +1,7 @@
 {
-  "name": "memorization",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "simpleS-memorize",
+  "version": "0.0.1",
+  "description": "memorization library",
   "directories": {
     "test": "tests"
   },
@@ -10,10 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-
-  },
+  "license": "MIT",
   "devDependencies": {
     "@types/chai": "^3.5.1",
     "@types/mocha": "^2.2.41",
