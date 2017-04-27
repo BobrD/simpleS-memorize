@@ -1,0 +1,36 @@
+{
+  "rules": {
+    "prefer-for-of": true,
+    "triple-equals": [
+      true,
+      "allow-null-check"
+    ],
+    "arrow-return-shorthand": true,
+    "class-name": true,
+    "cyclomatic-complexity": true,
+    "interface-name": true,
+    "member-ordering": [
+      true,
+      {
+        "order": [
+          "public-static-field",
+          "public-instance-field",
+          "public-constructor",
+          "public-instance-method",
+          "protected-instance-method",
+          "private-instance-method"
+        ]
+      }
+    ],
+    "no-unsafe-any": true,
+    "no-invalid-this": true,
+    "prefer-const": true,
+    "no-var-keyword": true,
+    "promise-function-async": true,
+    "semicolon": [
+      true,
+      "always"
+    ]
+
+  }
+}
